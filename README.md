@@ -18,7 +18,7 @@ con conocimiento en: | HTML5 | CSS | JavaScript | React | Redux | Express | Node
 
 <b>Informacion de contacto: </b>
 
-e-mail: 1.-eliaspiolatto77@hotmail.com
-        2.-emp0292@gmail.com
+e-mail: eliaspiolatto77@hotmail.com
+        emp0292@gmail.com
         
 LinkedIn: https://www.linkedin.com/in/el%C3%ADas-mart%C3%ADn-piolatto-59335572/
