@@ -14,4 +14,4 @@ También estuve involucrado en los negocios inmobiliarios como gestor, intervini
 En resumen, actualmente me encuentro ofreciendo principalmente mis servicios como Full Stack Developer, 
 con conocimiento en: | HTML5 | CSS | JavaScript | React | Redux | Express | Node.JS | PostgresSQL | Sequelize. En este ámbito espero lograr muchos resultados positivos, ya sea en relación de dependencia o independiente, al mismo tiempo de seguir creciendo cada día enriqueciéndome de nuevos conocimientos.
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,bootstrap,react,redux,sequelize,postgres,figma&theme=light)](https://skillicons.dev)
